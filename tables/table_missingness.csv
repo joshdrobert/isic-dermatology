@@ -1,0 +1,16 @@
+variable,missing_fraction,nonmissing_n
+isic_id,0.0,10015
+age,0.009385921118322517,9921
+sex,0.0046929605591612585,9968
+anatom_site,0.024063904143784322,9774
+diagnosis_family,0.0,10015
+diagnosis,0.014178731902146779,9873
+diagnosis_confirm_type,0.0,10015
+lesion_id,0.0,10015
+melanocytic,0.0,10015
+pixels_x,0.0,10015
+pixels_y,0.0,10015
+file_size,0.0,10015
+image_url,0.0,10015
+outcome_malignant_or_high_risk,0.0,10015
+image_megapixels,0.0,10015

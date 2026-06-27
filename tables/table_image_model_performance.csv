@@ -1,0 +1,2 @@
+model,n_train,n_validation,events_validation,auroc,auprc,brier
+thumbnail_image_features_hist_gradient_boosting,7511,2504,456,0.8474046138294956,0.5260732433586671,0.11289934200942812

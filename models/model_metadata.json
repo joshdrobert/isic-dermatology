@@ -1,0 +1,12 @@
+{
+  "predictors": [
+    "age",
+    "sex",
+    "anatom_site",
+    "melanocytic",
+    "image_megapixels",
+    "file_size"
+  ],
+  "outcome": "outcome_malignant_or_high_risk",
+  "scaling_factor": 0.2654260259915718
+}

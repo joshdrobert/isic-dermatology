@@ -1,0 +1,5 @@
+collection,role,raw_n,overlap_removed,evaluation_n,events,event_prevalence,dominant_attribution,label_mapping,compatibility,rationale
+66,development,10015,0,10015,1824,0.18212680978532203,HAM10000 / collection 66,"Melanoma, BCC, or SCC = malignant",development reference,Prespecified development collection
+67,external evaluation,1512,0,1512,288,0.19047619047619047,MILK study team (1512),"Melanoma, BCC, or SCC = malignant",label-compatible,Challenge-era MILK cohort with the same binary diagnosis mapping
+73,external evaluation,193,0,193,44,0.22797927461139897,MILK study team (193),"Melanoma, BCC, or SCC = malignant",label-compatible,Challenge-era MILK cohort with the same binary diagnosis mapping
+470,stress test,9810,1910,7900,4112,0.520506329113924,Hospital Clínic de Barcelona (3745),"Melanoma, BCC, or SCC = malignant",domain/endpoint stress test,Multi-source balanced collection; overlapping MILK images removed

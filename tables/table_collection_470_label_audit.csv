@@ -1,0 +1,10 @@
+audit_item,value
+Evaluated images,7900.0
+Exact development overlaps removed,1910.0
+Malignant labels,4112.0
+Benign/indeterminate labels,3788.0
+"Mean predicted risk, malignant labels",0.9727447834371312
+"Mean predicted risk, nonmalignant labels",0.978471504769696
+Observed-label AUROC,0.2701643450133331
+Outcome-inverted AUROC,0.7298356549866669
+Diagnosis-family mapping disagreements,0.0

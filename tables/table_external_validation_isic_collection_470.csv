@@ -1,0 +1,2 @@
+model,train_n,external_n,external_events,overlap_removed,auroc,auprc,brier
+combined_metadata_thumbnail_features_external_validation,10015,7900,4112,1910,0.2701643450133331,0.3828112228799601,0.46447459207265634

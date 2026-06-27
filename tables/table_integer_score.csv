@@ -1,0 +1,12 @@
+feature,coefficient,points
+cat__anatom_site_Anogenital region,-1.8774910019217237,-7
+num__age,0.7824914509005915,3
+cat__anatom_site_Upper extremity,0.7334693381769065,3
+cat__anatom_site_Head and neck,0.45078105046499045,2
+num__file_size,0.3253342563668867,1
+num__melanocytic,-0.20551779561625685,-1
+cat__anatom_site_Trunk,0.20115101806503694,1
+cat__sex_female,-0.19328587033133995,-1
+cat__sex_male,-0.16413685997379338,-1
+cat__anatom_site_Lower extremity,0.13466686490966814,1
+num__image_megapixels,0.0,0

@@ -1,0 +1,27 @@
+variable,level,n
+sex,male,5408
+sex,female,4560
+sex,Missing,47
+anatom_site,Trunk,5025
+anatom_site,Lower extremity,2396
+anatom_site,Upper extremity,1208
+anatom_site,Head and neck,1097
+anatom_site,Missing,241
+anatom_site,Anogenital region,48
+diagnosis_family,Benign,8061
+diagnosis_family,Malignant,1824
+diagnosis_family,Indeterminate,130
+diagnosis,Nevus,6705
+diagnosis,"Melanoma, NOS",1113
+diagnosis,Pigmented benign keratosis,1099
+diagnosis,Basal cell carcinoma,514
+diagnosis,"Squamous cell carcinoma, NOS",197
+diagnosis,Missing,142
+diagnosis,Solar or actinic keratosis,130
+diagnosis,Dermatofibroma,115
+diagnosis_confirm_type,histopathology,5340
+diagnosis_confirm_type,serial imaging showing no change,3704
+diagnosis_confirm_type,single image expert consensus,902
+diagnosis_confirm_type,confocal microscopy with consensus dermoscopy,69
+melanocytic,True,7818
+melanocytic,False,2197

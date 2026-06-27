@@ -1,0 +1,8 @@
+source,n,events,event_prevalence,mean_predicted_risk,auroc
+Hospital Clínic de Barcelona,3745,3168,0.8459279038718291,0.9615529509059435,0.6741937354480683
+Memorial Sloan Kettering Cancer Center,1238,216,0.17447495961227788,0.9999999999977786,0.3913192179459302
+"Department of Dermatology, Hospital Clínic de Barcelona",861,179,0.20789779326364694,0.9543478195267745,0.549460181195629
+"The University of Queensland Diamantina Institute, The University of Queensland, Dermatology Research Centre",798,9,0.011278195488721804,1.0,0.5
+Anonymous,492,363,0.7378048780487805,0.9793347756650138,0.5735473124479468
+"ViDIR Group, Department of Dermatology, Medical University of Vienna",469,43,0.09168443496801706,0.9996474303439495,0.3781526367507369
+"Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital, Pascale Guitera",297,134,0.4511784511784512,0.9999999372054929,0.4756890394652504

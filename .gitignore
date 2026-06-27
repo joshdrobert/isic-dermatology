@@ -1,0 +1,22 @@
+# Standalone Repository .gitignore
+
+# Python/environment
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+
+# Large datasets to download locally
+data_raw/clinical_xml/*
+!data_raw/clinical_xml/.gitkeep
+data_raw/rna_seq_star_counts/*
+!data_raw/rna_seq_star_counts/.gitkeep
+data_raw/dicom/*
+!data_raw/dicom/.gitkeep
+data_raw/images/*
+!data_raw/images/.gitkeep
+data_raw/thumbnails_256/*
+!data_raw/thumbnails_256/.gitkeep
+data_raw/ham10000_kaggle/*
+!data_raw/ham10000_kaggle/.gitkeep

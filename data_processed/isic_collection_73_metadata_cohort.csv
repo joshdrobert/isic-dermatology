@@ -1,0 +1,194 @@
+isic_id,age,sex,anatom_site,diagnosis_family,diagnosis,diagnosis_confirm_type,lesion_id,melanocytic,pixels_x,pixels_y,file_size,image_url,outcome_malignant_or_high_risk,image_megapixels
+ISIC_0034321,60.0,female,Lower extremity,Benign,Nevus,single image expert consensus,IL_0671802,True,600,450,20450,https://isic-archive.s3.amazonaws.com/images/ISIC_0034321.jpg,0,0.27
+ISIC_0034322,70.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_8930683,True,600,450,27096,https://isic-archive.s3.amazonaws.com/images/ISIC_0034322.jpg,0,0.27
+ISIC_0034323,70.0,male,Lower extremity,Malignant,Basal cell carcinoma,histopathology,IL_7607071,False,600,450,27091,https://isic-archive.s3.amazonaws.com/images/ISIC_0034323.jpg,1,0.27
+ISIC_0034324,70.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_5396483,True,600,450,19914,https://isic-archive.s3.amazonaws.com/images/ISIC_0034324.jpg,0,0.27
+ISIC_0034325,30.0,female,Upper extremity,Benign,Nevus,serial imaging showing no change,IL_5810082,True,600,450,18836,https://isic-archive.s3.amazonaws.com/images/ISIC_0034325.jpg,0,0.27
+ISIC_0034326,80.0,male,Head and neck,Benign,Pigmented benign keratosis,single image expert consensus,IL_2515860,False,600,450,31222,https://isic-archive.s3.amazonaws.com/images/ISIC_0034326.jpg,0,0.27
+ISIC_0034328,45.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_4530438,True,600,450,21823,https://isic-archive.s3.amazonaws.com/images/ISIC_0034328.jpg,0,0.27
+ISIC_0034329,80.0,male,Head and neck,Malignant,"Melanoma, NOS",histopathology,IL_5340108,True,600,450,31241,https://isic-archive.s3.amazonaws.com/images/ISIC_0034329.jpg,1,0.27
+ISIC_0034330,40.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_8511414,True,600,450,22138,https://isic-archive.s3.amazonaws.com/images/ISIC_0034330.jpg,0,0.27
+ISIC_0034331,75.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_4684692,True,600,450,22387,https://isic-archive.s3.amazonaws.com/images/ISIC_0034331.jpg,0,0.27
+ISIC_0034332,60.0,male,Upper extremity,Malignant,"Squamous cell carcinoma, NOS",histopathology,IL_4940618,False,600,450,18643,https://isic-archive.s3.amazonaws.com/images/ISIC_0034332.jpg,1,0.27
+ISIC_0034333,65.0,male,Upper extremity,Malignant,Basal cell carcinoma,histopathology,IL_0828400,False,600,450,21012,https://isic-archive.s3.amazonaws.com/images/ISIC_0034333.jpg,1,0.27
+ISIC_0034334,50.0,female,Lower extremity,Benign,Dermatofibroma,single image expert consensus,IL_8846572,False,600,450,42176,https://isic-archive.s3.amazonaws.com/images/ISIC_0034334.jpg,0,0.27
+ISIC_0034335,45.0,female,Lower extremity,Benign,Nevus,histopathology,IL_2706203,True,600,450,14855,https://isic-archive.s3.amazonaws.com/images/ISIC_0034335.jpg,0,0.27
+ISIC_0034336,50.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_3649590,True,600,450,24484,https://isic-archive.s3.amazonaws.com/images/ISIC_0034336.jpg,0,0.27
+ISIC_0034337,35.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_7955684,True,600,450,23001,https://isic-archive.s3.amazonaws.com/images/ISIC_0034337.jpg,0,0.27
+ISIC_0034338,70.0,male,Lower extremity,Malignant,Basal cell carcinoma,histopathology,IL_7607071,False,600,450,23728,https://isic-archive.s3.amazonaws.com/images/ISIC_0034338.jpg,1,0.27
+ISIC_0034339,35.0,male,Trunk,Benign,Nevus,histopathology,IL_7912559,True,600,450,31882,https://isic-archive.s3.amazonaws.com/images/ISIC_0034339.jpg,0,0.27
+ISIC_0034340,60.0,female,Lower extremity,Benign,Nevus,single image expert consensus,IL_0671802,True,600,450,19151,https://isic-archive.s3.amazonaws.com/images/ISIC_0034340.jpg,0,0.27
+ISIC_0034341,35.0,male,Trunk,Benign,Nevus,histopathology,IL_7637162,True,600,450,13282,https://isic-archive.s3.amazonaws.com/images/ISIC_0034341.jpg,0,0.27
+ISIC_0034342,35.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_8704750,True,600,450,20803,https://isic-archive.s3.amazonaws.com/images/ISIC_0034342.jpg,0,0.27
+ISIC_0034343,65.0,male,Trunk,Malignant,"Melanoma, NOS",histopathology,IL_2956411,True,600,450,22901,https://isic-archive.s3.amazonaws.com/images/ISIC_0034343.jpg,1,0.27
+ISIC_0034344,65.0,male,Upper extremity,Malignant,Basal cell carcinoma,histopathology,IL_5411269,False,600,450,20516,https://isic-archive.s3.amazonaws.com/images/ISIC_0034344.jpg,1,0.27
+ISIC_0034345,60.0,female,Head and neck,Benign,Pigmented benign keratosis,histopathology,IL_9721098,False,600,450,30714,https://isic-archive.s3.amazonaws.com/images/ISIC_0034345.jpg,0,0.27
+ISIC_0034346,65.0,male,Trunk,Malignant,Basal cell carcinoma,histopathology,IL_7406040,False,600,450,27504,https://isic-archive.s3.amazonaws.com/images/ISIC_0034346.jpg,1,0.27
+ISIC_0034347,45.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_2220509,True,600,450,16359,https://isic-archive.s3.amazonaws.com/images/ISIC_0034347.jpg,0,0.27
+ISIC_0034348,40.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_2860625,True,600,450,21912,https://isic-archive.s3.amazonaws.com/images/ISIC_0034348.jpg,0,0.27
+ISIC_0034349,45.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_0683916,True,600,450,19280,https://isic-archive.s3.amazonaws.com/images/ISIC_0034349.jpg,0,0.27
+ISIC_0034350,45.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_5599890,True,600,450,30155,https://isic-archive.s3.amazonaws.com/images/ISIC_0034350.jpg,0,0.27
+ISIC_0034351,45.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_4309208,True,600,450,23557,https://isic-archive.s3.amazonaws.com/images/ISIC_0034351.jpg,0,0.27
+ISIC_0034352,40.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_4870675,True,600,450,17941,https://isic-archive.s3.amazonaws.com/images/ISIC_0034352.jpg,0,0.27
+ISIC_0034354,65.0,female,Head and neck,Malignant,"Melanoma, NOS",histopathology,IL_8138940,True,600,450,26370,https://isic-archive.s3.amazonaws.com/images/ISIC_0034354.jpg,1,0.27
+ISIC_0034355,70.0,female,Lower extremity,Benign,Nevus,histopathology,IL_1124098,True,600,450,17546,https://isic-archive.s3.amazonaws.com/images/ISIC_0034355.jpg,0,0.27
+ISIC_0034356,50.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_3225292,True,600,450,18850,https://isic-archive.s3.amazonaws.com/images/ISIC_0034356.jpg,0,0.27
+ISIC_0034357,45.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_9786318,True,600,450,20564,https://isic-archive.s3.amazonaws.com/images/ISIC_0034357.jpg,0,0.27
+ISIC_0034359,65.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_4321792,True,600,450,21686,https://isic-archive.s3.amazonaws.com/images/ISIC_0034359.jpg,0,0.27
+ISIC_0034360,80.0,male,Trunk,Benign,Pigmented benign keratosis,single image expert consensus,IL_8729422,False,600,450,22376,https://isic-archive.s3.amazonaws.com/images/ISIC_0034360.jpg,0,0.27
+ISIC_0034361,65.0,male,Trunk,Malignant,Basal cell carcinoma,histopathology,IL_9345972,False,600,450,22267,https://isic-archive.s3.amazonaws.com/images/ISIC_0034361.jpg,1,0.27
+ISIC_0034362,65.0,male,Lower extremity,Benign,Pigmented benign keratosis,histopathology,IL_5556095,False,600,450,28359,https://isic-archive.s3.amazonaws.com/images/ISIC_0034362.jpg,0,0.27
+ISIC_0034363,60.0,male,Trunk,Benign,Nevus,histopathology,IL_2908765,True,600,450,26927,https://isic-archive.s3.amazonaws.com/images/ISIC_0034363.jpg,0,0.27
+ISIC_0034364,65.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_6767410,True,600,450,22505,https://isic-archive.s3.amazonaws.com/images/ISIC_0034364.jpg,0,0.27
+ISIC_0034365,50.0,female,Anogenital region,Benign,Nevus,serial imaging showing no change,IL_8780822,True,600,450,19508,https://isic-archive.s3.amazonaws.com/images/ISIC_0034365.jpg,0,0.27
+ISIC_0034366,80.0,male,Trunk,Benign,Pigmented benign keratosis,single image expert consensus,IL_7621159,False,600,450,21292,https://isic-archive.s3.amazonaws.com/images/ISIC_0034366.jpg,0,0.27
+ISIC_0034367,65.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_6498193,True,600,450,29739,https://isic-archive.s3.amazonaws.com/images/ISIC_0034367.jpg,0,0.27
+ISIC_0034368,70.0,male,Trunk,Benign,Pigmented benign keratosis,histopathology,IL_4576519,False,600,450,16575,https://isic-archive.s3.amazonaws.com/images/ISIC_0034368.jpg,0,0.27
+ISIC_0034369,45.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_6178165,True,600,450,28269,https://isic-archive.s3.amazonaws.com/images/ISIC_0034369.jpg,0,0.27
+ISIC_0034370,60.0,female,Lower extremity,Benign,Nevus,single image expert consensus,IL_0671802,True,600,450,19636,https://isic-archive.s3.amazonaws.com/images/ISIC_0034370.jpg,0,0.27
+ISIC_0034371,60.0,male,Head and neck,Benign,Pigmented benign keratosis,confocal microscopy with consensus dermoscopy,IL_8123669,False,600,450,29842,https://isic-archive.s3.amazonaws.com/images/ISIC_0034371.jpg,0,0.27
+ISIC_0034372,65.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_3348818,True,600,450,19310,https://isic-archive.s3.amazonaws.com/images/ISIC_0034372.jpg,0,0.27
+ISIC_0034374,70.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_0188417,True,600,450,19022,https://isic-archive.s3.amazonaws.com/images/ISIC_0034374.jpg,0,0.27
+ISIC_0034375,60.0,male,Head and neck,Benign,Pigmented benign keratosis,confocal microscopy with consensus dermoscopy,IL_8123669,False,600,450,27121,https://isic-archive.s3.amazonaws.com/images/ISIC_0034375.jpg,0,0.27
+ISIC_0034376,50.0,female,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_5693413,True,600,450,29367,https://isic-archive.s3.amazonaws.com/images/ISIC_0034376.jpg,1,0.27
+ISIC_0034377,50.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_4572479,True,600,450,24832,https://isic-archive.s3.amazonaws.com/images/ISIC_0034377.jpg,0,0.27
+ISIC_0034378,70.0,female,Head and neck,Benign,Nevus,histopathology,IL_6075582,True,600,450,21898,https://isic-archive.s3.amazonaws.com/images/ISIC_0034378.jpg,0,0.27
+ISIC_0034379,65.0,male,Trunk,Benign,Nevus,histopathology,IL_8775819,True,600,450,21274,https://isic-archive.s3.amazonaws.com/images/ISIC_0034379.jpg,0,0.27
+ISIC_0034380,35.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_1692394,True,600,450,20851,https://isic-archive.s3.amazonaws.com/images/ISIC_0034380.jpg,0,0.27
+ISIC_0034381,80.0,male,Head and neck,Malignant,"Melanoma, NOS",histopathology,IL_5340108,True,600,450,32220,https://isic-archive.s3.amazonaws.com/images/ISIC_0034381.jpg,1,0.27
+ISIC_0034382,65.0,female,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_1066942,True,600,450,26129,https://isic-archive.s3.amazonaws.com/images/ISIC_0034382.jpg,1,0.27
+ISIC_0034383,65.0,male,Upper extremity,Malignant,Basal cell carcinoma,histopathology,IL_5411269,False,600,450,21208,https://isic-archive.s3.amazonaws.com/images/ISIC_0034383.jpg,1,0.27
+ISIC_0034385,60.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_9100982,True,600,450,19366,https://isic-archive.s3.amazonaws.com/images/ISIC_0034385.jpg,0,0.27
+ISIC_0034386,70.0,male,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_5709069,True,600,450,29373,https://isic-archive.s3.amazonaws.com/images/ISIC_0034386.jpg,1,0.27
+ISIC_0034387,75.0,female,Upper extremity,Benign,Pigmented benign keratosis,histopathology,IL_0148334,False,600,450,18733,https://isic-archive.s3.amazonaws.com/images/ISIC_0034387.jpg,0,0.27
+ISIC_0034389,30.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_8112336,True,600,450,19750,https://isic-archive.s3.amazonaws.com/images/ISIC_0034389.jpg,0,0.27
+ISIC_0034390,70.0,male,Head and neck,Benign,Pigmented benign keratosis,histopathology,IL_2667697,False,600,450,30540,https://isic-archive.s3.amazonaws.com/images/ISIC_0034390.jpg,0,0.27
+ISIC_0034391,35.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_6974585,True,600,450,19515,https://isic-archive.s3.amazonaws.com/images/ISIC_0034391.jpg,0,0.27
+ISIC_0034392,75.0,female,Lower extremity,Benign,Nevus,histopathology,IL_8933263,True,600,450,26827,https://isic-archive.s3.amazonaws.com/images/ISIC_0034392.jpg,0,0.27
+ISIC_0034393,45.0,female,Lower extremity,Benign,Nevus,histopathology,IL_2706203,True,600,450,13539,https://isic-archive.s3.amazonaws.com/images/ISIC_0034393.jpg,0,0.27
+ISIC_0034394,65.0,female,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_1066942,True,600,450,26134,https://isic-archive.s3.amazonaws.com/images/ISIC_0034394.jpg,1,0.27
+ISIC_0034395,45.0,female,Trunk,Benign,Nevus,histopathology,IL_5597335,True,600,450,11595,https://isic-archive.s3.amazonaws.com/images/ISIC_0034395.jpg,0,0.27
+ISIC_0034396,60.0,female,Lower extremity,Malignant,"Squamous cell carcinoma, NOS",histopathology,IL_9051854,False,600,450,22422,https://isic-archive.s3.amazonaws.com/images/ISIC_0034396.jpg,1,0.27
+ISIC_0034397,55.0,male,,Benign,Nevus,serial imaging showing no change,IL_5868695,True,600,450,14707,https://isic-archive.s3.amazonaws.com/images/ISIC_0034397.jpg,0,0.27
+ISIC_0034398,50.0,female,Trunk,Malignant,"Melanoma, NOS",histopathology,IL_2260719,True,600,450,24486,https://isic-archive.s3.amazonaws.com/images/ISIC_0034398.jpg,1,0.27
+ISIC_0034399,40.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_5505533,True,600,450,22053,https://isic-archive.s3.amazonaws.com/images/ISIC_0034399.jpg,0,0.27
+ISIC_0034400,35.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_7830063,True,600,450,28291,https://isic-archive.s3.amazonaws.com/images/ISIC_0034400.jpg,0,0.27
+ISIC_0034401,45.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_6396830,True,600,450,13736,https://isic-archive.s3.amazonaws.com/images/ISIC_0034401.jpg,0,0.27
+ISIC_0034402,80.0,female,Upper extremity,Malignant,"Squamous cell carcinoma, NOS",histopathology,IL_2393115,False,600,450,22005,https://isic-archive.s3.amazonaws.com/images/ISIC_0034402.jpg,1,0.27
+ISIC_0034403,20.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_5555103,True,600,450,19757,https://isic-archive.s3.amazonaws.com/images/ISIC_0034403.jpg,0,0.27
+ISIC_0034404,85.0,male,Trunk,Malignant,Basal cell carcinoma,histopathology,IL_1670186,False,600,450,29081,https://isic-archive.s3.amazonaws.com/images/ISIC_0034404.jpg,1,0.27
+ISIC_0034405,65.0,male,Trunk,Malignant,Basal cell carcinoma,histopathology,IL_9345972,False,600,450,22841,https://isic-archive.s3.amazonaws.com/images/ISIC_0034405.jpg,1,0.27
+ISIC_0034406,70.0,male,Upper extremity,Malignant,Basal cell carcinoma,histopathology,IL_1422780,False,600,450,22071,https://isic-archive.s3.amazonaws.com/images/ISIC_0034406.jpg,1,0.27
+ISIC_0034407,35.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_4132315,True,600,450,19029,https://isic-archive.s3.amazonaws.com/images/ISIC_0034407.jpg,0,0.27
+ISIC_0034408,40.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_3047910,True,600,450,19372,https://isic-archive.s3.amazonaws.com/images/ISIC_0034408.jpg,0,0.27
+ISIC_0034409,65.0,male,Trunk,Malignant,Basal cell carcinoma,histopathology,IL_9345972,False,600,450,22299,https://isic-archive.s3.amazonaws.com/images/ISIC_0034409.jpg,1,0.27
+ISIC_0034410,60.0,male,Upper extremity,Malignant,"Squamous cell carcinoma, NOS",histopathology,IL_4940618,False,600,450,22061,https://isic-archive.s3.amazonaws.com/images/ISIC_0034410.jpg,1,0.27
+ISIC_0034411,60.0,male,Head and neck,Benign,Pigmented benign keratosis,histopathology,IL_7134278,False,600,450,33809,https://isic-archive.s3.amazonaws.com/images/ISIC_0034411.jpg,0,0.27
+ISIC_0034412,70.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_2872709,True,600,450,24071,https://isic-archive.s3.amazonaws.com/images/ISIC_0034412.jpg,0,0.27
+ISIC_0034413,45.0,male,Trunk,Benign,Pigmented benign keratosis,single image expert consensus,IL_9798814,False,600,450,21306,https://isic-archive.s3.amazonaws.com/images/ISIC_0034413.jpg,0,0.27
+ISIC_0034414,50.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_0134175,True,600,450,27561,https://isic-archive.s3.amazonaws.com/images/ISIC_0034414.jpg,0,0.27
+ISIC_0034415,30.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_5347082,True,600,450,21367,https://isic-archive.s3.amazonaws.com/images/ISIC_0034415.jpg,0,0.27
+ISIC_0034416,65.0,male,Trunk,Malignant,Basal cell carcinoma,histopathology,IL_7406040,False,600,450,27684,https://isic-archive.s3.amazonaws.com/images/ISIC_0034416.jpg,1,0.27
+ISIC_0034417,55.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_0076127,True,600,450,22155,https://isic-archive.s3.amazonaws.com/images/ISIC_0034417.jpg,0,0.27
+ISIC_0034418,55.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_4389626,True,600,450,22010,https://isic-archive.s3.amazonaws.com/images/ISIC_0034418.jpg,0,0.27
+ISIC_0034419,50.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_5625899,True,600,450,18705,https://isic-archive.s3.amazonaws.com/images/ISIC_0034419.jpg,0,0.27
+ISIC_0034420,45.0,male,Upper extremity,Benign,Nevus,serial imaging showing no change,IL_1300926,True,600,450,24453,https://isic-archive.s3.amazonaws.com/images/ISIC_0034420.jpg,0,0.27
+ISIC_0034421,70.0,female,Upper extremity,Malignant,"Squamous cell carcinoma, NOS",histopathology,IL_9554952,False,600,450,27633,https://isic-archive.s3.amazonaws.com/images/ISIC_0034421.jpg,1,0.27
+ISIC_0034422,85.0,male,Upper extremity,Malignant,"Squamous cell carcinoma, NOS",histopathology,IL_7570484,False,600,450,25515,https://isic-archive.s3.amazonaws.com/images/ISIC_0034422.jpg,1,0.27
+ISIC_0034423,50.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_3997790,True,600,450,21904,https://isic-archive.s3.amazonaws.com/images/ISIC_0034423.jpg,0,0.27
+ISIC_0034424,55.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_6332412,True,600,450,18798,https://isic-archive.s3.amazonaws.com/images/ISIC_0034424.jpg,0,0.27
+ISIC_0034425,35.0,male,Trunk,Benign,Nevus,histopathology,IL_8026752,True,600,450,24601,https://isic-archive.s3.amazonaws.com/images/ISIC_0034425.jpg,0,0.27
+ISIC_0034426,65.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_3901833,True,600,450,31101,https://isic-archive.s3.amazonaws.com/images/ISIC_0034426.jpg,0,0.27
+ISIC_0034427,80.0,female,Upper extremity,Malignant,"Squamous cell carcinoma, NOS",histopathology,IL_2393115,False,600,450,23532,https://isic-archive.s3.amazonaws.com/images/ISIC_0034427.jpg,1,0.27
+ISIC_0034428,75.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_1539145,True,600,450,19491,https://isic-archive.s3.amazonaws.com/images/ISIC_0034428.jpg,0,0.27
+ISIC_0034429,40.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_1873954,True,600,450,22899,https://isic-archive.s3.amazonaws.com/images/ISIC_0034429.jpg,0,0.27
+ISIC_0034430,55.0,male,,Benign,Nevus,single image expert consensus,IL_1480817,True,600,450,22183,https://isic-archive.s3.amazonaws.com/images/ISIC_0034430.jpg,0,0.27
+ISIC_0034431,50.0,female,Trunk,Benign,Nevus,histopathology,IL_0614048,True,600,450,23994,https://isic-archive.s3.amazonaws.com/images/ISIC_0034431.jpg,0,0.27
+ISIC_0034433,60.0,female,Head and neck,Benign,Nevus,histopathology,IL_4655248,True,600,450,26705,https://isic-archive.s3.amazonaws.com/images/ISIC_0034433.jpg,0,0.27
+ISIC_0034434,60.0,male,Lower extremity,Benign,Nevus,histopathology,IL_4283175,True,600,450,13124,https://isic-archive.s3.amazonaws.com/images/ISIC_0034434.jpg,0,0.27
+ISIC_0034435,45.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_4248300,True,600,450,20545,https://isic-archive.s3.amazonaws.com/images/ISIC_0034435.jpg,0,0.27
+ISIC_0034436,70.0,female,Upper extremity,Malignant,"Squamous cell carcinoma, NOS",histopathology,IL_9554952,False,600,450,20557,https://isic-archive.s3.amazonaws.com/images/ISIC_0034436.jpg,1,0.27
+ISIC_0034437,50.0,female,Trunk,Benign,Nevus,histopathology,IL_0614048,True,600,450,25847,https://isic-archive.s3.amazonaws.com/images/ISIC_0034437.jpg,0,0.27
+ISIC_0034438,60.0,female,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_6220664,True,600,450,27008,https://isic-archive.s3.amazonaws.com/images/ISIC_0034438.jpg,1,0.27
+ISIC_0034439,75.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_7709254,True,600,450,21397,https://isic-archive.s3.amazonaws.com/images/ISIC_0034439.jpg,0,0.27
+ISIC_0034440,40.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_8825886,True,600,450,23050,https://isic-archive.s3.amazonaws.com/images/ISIC_0034440.jpg,0,0.27
+ISIC_0034441,35.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_0682488,True,600,450,26933,https://isic-archive.s3.amazonaws.com/images/ISIC_0034441.jpg,0,0.27
+ISIC_0034442,35.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_4956248,True,600,450,19637,https://isic-archive.s3.amazonaws.com/images/ISIC_0034442.jpg,0,0.27
+ISIC_0034443,70.0,male,Lower extremity,Benign,Nevus,histopathology,IL_7938334,True,600,450,19469,https://isic-archive.s3.amazonaws.com/images/ISIC_0034443.jpg,0,0.27
+ISIC_0034444,65.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_5872226,True,600,450,23210,https://isic-archive.s3.amazonaws.com/images/ISIC_0034444.jpg,0,0.27
+ISIC_0034445,50.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_4743793,True,600,450,42105,https://isic-archive.s3.amazonaws.com/images/ISIC_0034445.jpg,0,0.27
+ISIC_0034446,70.0,male,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_5709069,True,600,450,24823,https://isic-archive.s3.amazonaws.com/images/ISIC_0034446.jpg,1,0.27
+ISIC_0034447,55.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_1930368,True,600,450,27104,https://isic-archive.s3.amazonaws.com/images/ISIC_0034447.jpg,0,0.27
+ISIC_0034448,45.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_4021703,True,600,450,18952,https://isic-archive.s3.amazonaws.com/images/ISIC_0034448.jpg,0,0.27
+ISIC_0034449,35.0,female,Upper extremity,Benign,Nevus,histopathology,IL_1688330,True,600,450,25086,https://isic-archive.s3.amazonaws.com/images/ISIC_0034449.jpg,0,0.27
+ISIC_0034450,75.0,male,Upper extremity,Benign,Nevus,histopathology,IL_1936015,True,600,450,21829,https://isic-archive.s3.amazonaws.com/images/ISIC_0034450.jpg,0,0.27
+ISIC_0034451,85.0,male,Trunk,Benign,Pigmented benign keratosis,histopathology,IL_7258833,False,600,450,33260,https://isic-archive.s3.amazonaws.com/images/ISIC_0034451.jpg,0,0.27
+ISIC_0034452,35.0,male,Trunk,Benign,Nevus,histopathology,IL_7637162,True,600,450,11648,https://isic-archive.s3.amazonaws.com/images/ISIC_0034452.jpg,0,0.27
+ISIC_0034453,80.0,male,Head and neck,Benign,Pigmented benign keratosis,single image expert consensus,IL_2515860,False,600,450,35377,https://isic-archive.s3.amazonaws.com/images/ISIC_0034453.jpg,0,0.27
+ISIC_0034454,45.0,female,Upper extremity,Benign,Nevus,serial imaging showing no change,IL_1973090,True,600,450,24552,https://isic-archive.s3.amazonaws.com/images/ISIC_0034454.jpg,0,0.27
+ISIC_0034455,75.0,male,Trunk,Benign,,histopathology,IL_9266257,False,600,450,25584,https://isic-archive.s3.amazonaws.com/images/ISIC_0034455.jpg,0,0.27
+ISIC_0034456,45.0,male,Trunk,Benign,Nevus,histopathology,IL_4350937,True,600,450,20959,https://isic-archive.s3.amazonaws.com/images/ISIC_0034456.jpg,0,0.27
+ISIC_0034457,70.0,male,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_3205474,True,600,450,28316,https://isic-archive.s3.amazonaws.com/images/ISIC_0034457.jpg,1,0.27
+ISIC_0034458,45.0,female,Anogenital region,Benign,Nevus,serial imaging showing no change,IL_7264920,True,600,450,29596,https://isic-archive.s3.amazonaws.com/images/ISIC_0034458.jpg,0,0.27
+ISIC_0034459,65.0,female,Head and neck,Malignant,"Melanoma, NOS",histopathology,IL_8138940,True,600,450,24896,https://isic-archive.s3.amazonaws.com/images/ISIC_0034459.jpg,1,0.27
+ISIC_0034460,85.0,female,Lower extremity,Benign,Pigmented benign keratosis,histopathology,IL_4439291,False,600,450,32284,https://isic-archive.s3.amazonaws.com/images/ISIC_0034460.jpg,0,0.27
+ISIC_0034461,55.0,male,Upper extremity,Benign,Nevus,serial imaging showing no change,IL_2716400,True,600,450,25302,https://isic-archive.s3.amazonaws.com/images/ISIC_0034461.jpg,0,0.27
+ISIC_0034463,30.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_3802020,True,600,450,17476,https://isic-archive.s3.amazonaws.com/images/ISIC_0034463.jpg,0,0.27
+ISIC_0034464,45.0,male,Trunk,Benign,Nevus,histopathology,IL_4350937,True,600,450,21131,https://isic-archive.s3.amazonaws.com/images/ISIC_0034464.jpg,0,0.27
+ISIC_0034465,55.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_8473574,True,600,450,24194,https://isic-archive.s3.amazonaws.com/images/ISIC_0034465.jpg,0,0.27
+ISIC_0034466,50.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_7071416,True,600,450,20900,https://isic-archive.s3.amazonaws.com/images/ISIC_0034466.jpg,0,0.27
+ISIC_0034467,55.0,male,Upper extremity,Benign,Nevus,histopathology,IL_4027404,True,600,450,25429,https://isic-archive.s3.amazonaws.com/images/ISIC_0034467.jpg,0,0.27
+ISIC_0034468,60.0,male,Lower extremity,Benign,Nevus,histopathology,IL_4283175,True,600,450,15520,https://isic-archive.s3.amazonaws.com/images/ISIC_0034468.jpg,0,0.27
+ISIC_0034469,75.0,male,Upper extremity,Benign,Nevus,histopathology,IL_1936015,True,600,450,18467,https://isic-archive.s3.amazonaws.com/images/ISIC_0034469.jpg,0,0.27
+ISIC_0034470,60.0,male,Head and neck,Benign,Pigmented benign keratosis,histopathology,IL_7134278,False,600,450,37767,https://isic-archive.s3.amazonaws.com/images/ISIC_0034470.jpg,0,0.27
+ISIC_0034471,,,,Benign,,single image expert consensus,IL_4811158,False,600,450,23226,https://isic-archive.s3.amazonaws.com/images/ISIC_0034471.jpg,0,0.27
+ISIC_0034472,50.0,female,Trunk,Malignant,"Melanoma, NOS",histopathology,IL_2260719,True,600,450,27448,https://isic-archive.s3.amazonaws.com/images/ISIC_0034472.jpg,1,0.27
+ISIC_0034474,65.0,male,Trunk,Benign,Nevus,histopathology,IL_8775819,True,600,450,17244,https://isic-archive.s3.amazonaws.com/images/ISIC_0034474.jpg,0,0.27
+ISIC_0034475,70.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_2177435,True,600,450,23270,https://isic-archive.s3.amazonaws.com/images/ISIC_0034475.jpg,0,0.27
+ISIC_0034476,85.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_9252465,True,600,450,21422,https://isic-archive.s3.amazonaws.com/images/ISIC_0034476.jpg,0,0.27
+ISIC_0034477,65.0,male,Trunk,Malignant,"Melanoma, NOS",histopathology,IL_2956411,True,600,450,21731,https://isic-archive.s3.amazonaws.com/images/ISIC_0034477.jpg,1,0.27
+ISIC_0034478,65.0,male,Upper extremity,Malignant,Basal cell carcinoma,histopathology,IL_0828400,False,600,450,20214,https://isic-archive.s3.amazonaws.com/images/ISIC_0034478.jpg,1,0.27
+ISIC_0034480,60.0,male,Trunk,Benign,Nevus,histopathology,IL_2908765,True,600,450,24528,https://isic-archive.s3.amazonaws.com/images/ISIC_0034480.jpg,0,0.27
+ISIC_0034481,65.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_4607653,True,600,450,29197,https://isic-archive.s3.amazonaws.com/images/ISIC_0034481.jpg,0,0.27
+ISIC_0034482,50.0,female,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_5693413,True,600,450,24651,https://isic-archive.s3.amazonaws.com/images/ISIC_0034482.jpg,1,0.27
+ISIC_0034483,50.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_5576689,True,600,450,23589,https://isic-archive.s3.amazonaws.com/images/ISIC_0034483.jpg,0,0.27
+ISIC_0034484,45.0,female,Head and neck,Benign,Nevus,serial imaging showing no change,IL_8049597,True,600,450,21239,https://isic-archive.s3.amazonaws.com/images/ISIC_0034484.jpg,0,0.27
+ISIC_0034485,65.0,female,Head and neck,Benign,Pigmented benign keratosis,histopathology,IL_2520846,False,600,450,36589,https://isic-archive.s3.amazonaws.com/images/ISIC_0034485.jpg,0,0.27
+ISIC_0034486,85.0,male,Trunk,Malignant,Basal cell carcinoma,histopathology,IL_1670186,False,600,450,33279,https://isic-archive.s3.amazonaws.com/images/ISIC_0034486.jpg,1,0.27
+ISIC_0034487,65.0,male,Trunk,Malignant,"Melanoma, NOS",histopathology,IL_5111323,True,600,450,33628,https://isic-archive.s3.amazonaws.com/images/ISIC_0034487.jpg,1,0.27
+ISIC_0034488,35.0,male,Trunk,Benign,Nevus,histopathology,IL_8026752,True,600,450,22861,https://isic-archive.s3.amazonaws.com/images/ISIC_0034488.jpg,0,0.27
+ISIC_0034489,40.0,male,,Benign,Nevus,single image expert consensus,IL_3590048,True,600,450,37802,https://isic-archive.s3.amazonaws.com/images/ISIC_0034489.jpg,0,0.27
+ISIC_0034490,50.0,male,Trunk,Benign,Pigmented benign keratosis,histopathology,IL_1975887,False,600,450,24126,https://isic-archive.s3.amazonaws.com/images/ISIC_0034490.jpg,0,0.27
+ISIC_0034491,50.0,female,Trunk,Benign,Nevus,histopathology,IL_0547573,True,600,450,20042,https://isic-archive.s3.amazonaws.com/images/ISIC_0034491.jpg,0,0.27
+ISIC_0034492,85.0,female,Upper extremity,Malignant,"Melanoma, NOS",histopathology,IL_3775603,True,600,450,24090,https://isic-archive.s3.amazonaws.com/images/ISIC_0034492.jpg,1,0.27
+ISIC_0034493,50.0,male,Trunk,Benign,Pigmented benign keratosis,histopathology,IL_1975887,False,600,450,20464,https://isic-archive.s3.amazonaws.com/images/ISIC_0034493.jpg,0,0.27
+ISIC_0034494,65.0,male,Trunk,Malignant,"Melanoma, NOS",histopathology,IL_5111323,True,600,450,35374,https://isic-archive.s3.amazonaws.com/images/ISIC_0034494.jpg,1,0.27
+ISIC_0034495,45.0,male,Trunk,Benign,Nevus,histopathology,IL_4350937,True,600,450,22299,https://isic-archive.s3.amazonaws.com/images/ISIC_0034495.jpg,0,0.27
+ISIC_0034496,50.0,female,Trunk,Benign,Nevus,histopathology,IL_0547573,True,600,450,19411,https://isic-archive.s3.amazonaws.com/images/ISIC_0034496.jpg,0,0.27
+ISIC_0034497,70.0,male,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_3205474,True,600,450,32597,https://isic-archive.s3.amazonaws.com/images/ISIC_0034497.jpg,1,0.27
+ISIC_0034498,30.0,female,Lower extremity,Benign,Nevus,histopathology,IL_8820634,True,600,450,17640,https://isic-archive.s3.amazonaws.com/images/ISIC_0034498.jpg,0,0.27
+ISIC_0034499,35.0,male,Trunk,Benign,Nevus,histopathology,IL_8026752,True,600,450,22587,https://isic-archive.s3.amazonaws.com/images/ISIC_0034499.jpg,0,0.27
+ISIC_0034500,85.0,male,Trunk,Benign,Pigmented benign keratosis,histopathology,IL_7258833,False,600,450,29609,https://isic-archive.s3.amazonaws.com/images/ISIC_0034500.jpg,0,0.27
+ISIC_0034501,50.0,male,Trunk,Benign,Nevus,single image expert consensus,IL_2283288,True,600,450,21346,https://isic-archive.s3.amazonaws.com/images/ISIC_0034501.jpg,0,0.27
+ISIC_0034502,40.0,female,Trunk,Benign,Nevus,histopathology,IL_2458940,True,600,450,14719,https://isic-archive.s3.amazonaws.com/images/ISIC_0034502.jpg,0,0.27
+ISIC_0034503,30.0,female,Lower extremity,Benign,Nevus,histopathology,IL_8820634,True,600,450,16814,https://isic-archive.s3.amazonaws.com/images/ISIC_0034503.jpg,0,0.27
+ISIC_0034504,70.0,male,Lower extremity,Malignant,"Melanoma, NOS",histopathology,IL_3205474,True,600,450,28354,https://isic-archive.s3.amazonaws.com/images/ISIC_0034504.jpg,1,0.27
+ISIC_0034505,85.0,male,Trunk,Benign,Pigmented benign keratosis,histopathology,IL_7258833,False,600,450,24804,https://isic-archive.s3.amazonaws.com/images/ISIC_0034505.jpg,0,0.27
+ISIC_0034506,50.0,female,Trunk,Benign,Nevus,histopathology,IL_0547573,True,600,450,20964,https://isic-archive.s3.amazonaws.com/images/ISIC_0034506.jpg,0,0.27
+ISIC_0034507,55.0,male,,Benign,Nevus,single image expert consensus,IL_9741232,True,600,450,21405,https://isic-archive.s3.amazonaws.com/images/ISIC_0034507.jpg,0,0.27
+ISIC_0034508,75.0,male,Trunk,Benign,,histopathology,IL_9266257,False,600,450,33671,https://isic-archive.s3.amazonaws.com/images/ISIC_0034508.jpg,0,0.27
+ISIC_0034509,20.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_8864373,True,600,450,23539,https://isic-archive.s3.amazonaws.com/images/ISIC_0034509.jpg,0,0.27
+ISIC_0034510,70.0,male,Lower extremity,Benign,Nevus,histopathology,IL_7938334,True,600,450,23120,https://isic-archive.s3.amazonaws.com/images/ISIC_0034510.jpg,0,0.27
+ISIC_0034511,35.0,female,Trunk,Benign,Nevus,histopathology,IL_6472749,True,600,450,21597,https://isic-archive.s3.amazonaws.com/images/ISIC_0034511.jpg,0,0.27
+ISIC_0034512,60.0,male,Upper extremity,Benign,Nevus,serial imaging showing no change,IL_6731115,True,600,450,23547,https://isic-archive.s3.amazonaws.com/images/ISIC_0034512.jpg,0,0.27
+ISIC_0034513,65.0,male,Trunk,Benign,Nevus,histopathology,IL_5907987,True,600,450,22682,https://isic-archive.s3.amazonaws.com/images/ISIC_0034513.jpg,0,0.27
+ISIC_0034514,50.0,female,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_4096324,True,600,450,28994,https://isic-archive.s3.amazonaws.com/images/ISIC_0034514.jpg,0,0.27
+ISIC_0034515,60.0,female,Head and neck,Benign,Nevus,histopathology,IL_4655248,True,600,450,24826,https://isic-archive.s3.amazonaws.com/images/ISIC_0034515.jpg,0,0.27
+ISIC_0034516,40.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_4482758,True,600,450,17912,https://isic-archive.s3.amazonaws.com/images/ISIC_0034516.jpg,0,0.27
+ISIC_0034517,50.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_4348143,True,600,450,19311,https://isic-archive.s3.amazonaws.com/images/ISIC_0034517.jpg,0,0.27
+ISIC_0034518,5.0,male,Lower extremity,Benign,Nevus,serial imaging showing no change,IL_2637772,True,600,450,25092,https://isic-archive.s3.amazonaws.com/images/ISIC_0034518.jpg,0,0.27
+ISIC_0034519,50.0,male,Trunk,Benign,Nevus,serial imaging showing no change,IL_4133279,True,600,450,20890,https://isic-archive.s3.amazonaws.com/images/ISIC_0034519.jpg,0,0.27
+ISIC_0034520,60.0,female,Trunk,Benign,Nevus,serial imaging showing no change,IL_5019064,True,600,450,24628,https://isic-archive.s3.amazonaws.com/images/ISIC_0034520.jpg,0,0.27
+ISIC_0034521,50.0,male,Trunk,Benign,Pigmented benign keratosis,histopathology,IL_1975887,False,600,450,27499,https://isic-archive.s3.amazonaws.com/images/ISIC_0034521.jpg,0,0.27
+ISIC_0034522,40.0,female,Trunk,Benign,Nevus,histopathology,IL_2458940,True,600,450,16473,https://isic-archive.s3.amazonaws.com/images/ISIC_0034522.jpg,0,0.27
+ISIC_0034523,70.0,male,Lower extremity,Malignant,Basal cell carcinoma,histopathology,IL_7607071,False,600,450,25041,https://isic-archive.s3.amazonaws.com/images/ISIC_0034523.jpg,1,0.27

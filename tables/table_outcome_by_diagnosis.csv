@@ -1,0 +1,9 @@
+diagnosis,count,sum,mean
+Basal cell carcinoma,514,514,1.0
+Dermatofibroma,115,0,0.0
+"Melanoma, NOS",1113,1113,1.0
+Nevus,6705,0,0.0
+Pigmented benign keratosis,1099,0,0.0
+Solar or actinic keratosis,130,0,0.0
+"Squamous cell carcinoma, NOS",197,197,1.0
+,142,0,0.0
